@@ -1,0 +1,5 @@
+library("ggplot2")
+mydata <- read.csv("sea-surface.csv")
+ggplot(mydata, aes(Year, Anomaly)) +        # ggplot2 plot with confidence intervals
+  geom_point() +
+  geom_line(aes(ymin = Lower, ymax = Upper))
