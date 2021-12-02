@@ -20,3 +20,4 @@ average temperature across the world, according to the prediction results obtain
 ARIMA and RNN. Even though the sanctions imposed to reduce carbon emissions are tightly
 employed, we expect new requirements associated with climate change and anticipate major
 problems caused by individual consumption, if the population growth is not planned.
+<a href="seaTempChanges.pdf">Sea Temp. Changes for last 60 years </a>
